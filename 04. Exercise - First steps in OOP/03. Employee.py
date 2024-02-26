@@ -10,7 +10,7 @@ class Employee:
     def get_full_name(self) -> str:
         return f'{self.first_name} {self.last_name}'
 
-    def get_annual_salary(self):
+    def get_annual_salary(self) -> float:
         total_salary = self.salary * Employee.MONTHS
         return total_salary
 
