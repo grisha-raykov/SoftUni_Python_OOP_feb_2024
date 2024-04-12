@@ -18,6 +18,7 @@ class Library:
                 self.rented_books[user.username][book_name] = days_to_return
             else:
                 self.rented_books[user.username] = {book_name: days_to_return}
+            return f"{book_name} successfully rented for the next {days_to_return} days!"
 
     def return_book(self, author: str, user: User, book_name: str):
         pass
