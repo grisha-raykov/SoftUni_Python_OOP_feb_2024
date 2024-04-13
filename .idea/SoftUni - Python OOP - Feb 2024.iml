@@ -5,6 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/06. Exercise - Classes and objects/07. Spoopify" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06. Exercise - Classes and objects/06. To-do list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06. Exercise - Classes and objects/08. Library" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Exercise - Inheritance/01. Person" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Exercise - Inheritance/02. Zoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08. Exercise - Inheritance/03. Players and Monsters" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
