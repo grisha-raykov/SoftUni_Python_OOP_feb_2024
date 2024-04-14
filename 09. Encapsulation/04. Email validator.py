@@ -19,3 +19,7 @@ class EmailValidator:
     def validate(self, email):
         username, data = email.split('@')
         provider, domain = data.split('.')
+
+        return (self.__is_name_valid(username) and
+                self.__is_mail_valid(provider) and
+                self.__is_domain_valid(domain))
