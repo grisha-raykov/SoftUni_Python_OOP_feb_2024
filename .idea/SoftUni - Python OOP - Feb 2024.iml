@@ -5,9 +5,10 @@
       <sourceFolder url="file://$MODULE_DIR$/06. Exercise - Classes and objects/07. Spoopify" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06. Exercise - Classes and objects/06. To-do list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/10. Exercise - Encapsulation/01. Wild Cat Zoo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/14. Exercise - Polymorphism and Abstraction/06. Formula 1 team/project" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (SoftUni - Python OOP - Feb 2024)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
